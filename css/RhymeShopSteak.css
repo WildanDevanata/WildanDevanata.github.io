@@ -36,6 +36,11 @@ body {
     background: var(--white-color);
     font-family: var(--body-font-family);    
     position: relative;
+    height: 100vh;
+    color: black;
+    box-sizing: border-box;
+    overflow: hidden
+}
 .dark-mode {
     background-color: black;
     color: white;
